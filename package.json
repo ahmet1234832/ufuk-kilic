@@ -1,0 +1,30 @@
+{
+  "name": "ufuk-kilic",
+  "version": "1.0.0",
+  "description": "Bu bir deneme projesidir",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "murat": "echo 'Benim adım Ufuk'",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "deneme",
+    "paket"
+  ],
+  "author": "Ufuk Kılıç",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.10.9",
+    "nodemailer": "^6.4.14",
+    "simple-is": "^0.2.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.1.0"
+  },
+  "repository": {
+    "type":"git",
+    "url":"https://github.com/ahmet1234832/ufuk-kilic.git"
+  }
+  
+}
